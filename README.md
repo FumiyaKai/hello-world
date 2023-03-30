@@ -9,4 +9,4 @@
 # Welcome to ENTR-451
 
 This is my first awesome Github repository!
-
+It's gonna be a fun quarter!
